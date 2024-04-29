@@ -1,0 +1,34 @@
+{
+  "term": "Spring",
+  "year": "2023",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "meow-meow"
+  },
+  "course_image": {
+    "content": "",
+    "website": "meow-meow"
+  },
+  "course_title": "meow-meow",
+  "hide_download": false,
+  "course_description": "meow-meow",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "6.4220",
+  "primary_course_number": "225",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "meow-meow"
+  },
+  "learning_resource_types": [
+    "Competition Videos"
+  ],
+  "site_uid": "846eaefb-daa8-43df-9b3c-f621fd4a6672",
+  "site_short_id": "meow-meow"
+}
