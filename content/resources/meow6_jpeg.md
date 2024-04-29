@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /media/courses/meow-meow/meow6.jpeg
+file: /media/courses/225-meow-meow-spring-2023/meow6.jpeg
 file_size: 78065
 file_type: image/jpeg
 image_metadata:
