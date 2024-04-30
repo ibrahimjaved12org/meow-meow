@@ -2,8 +2,8 @@
 body: ''
 content_type: resource
 draft: false
-file: /media/courses/225-meow-meow-spring-2023/meow6.jpeg
-file_size: 78065
+file: /media/courses/225-meow-meow-spring-2023/cat9.jpeg
+file_size: 70147
 file_type: image/jpeg
 image_metadata:
   caption: ''
@@ -12,8 +12,8 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Image
-title: meow6.jpeg
-uid: a76e6244-74d6-450b-96b2-ae2cf66e49df
+title: cat9.jpeg
+uid: 8e89369d-5387-4a3b-aed4-3071dc816b4c
 video_files:
   archive_url: ''
   video_captions_file: ''
