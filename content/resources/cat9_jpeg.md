@@ -13,7 +13,7 @@ learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Image
 title: cat9.jpeg
-uid: 8170362a-eb85-44ab-b91c-4f504a17bcf5
+uid: 297cac5b-2d36-4671-b901-249dd5f6d66a
 video_files:
   archive_url: ''
   video_captions_file: ''
