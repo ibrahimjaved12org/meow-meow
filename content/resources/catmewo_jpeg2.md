@@ -2,18 +2,18 @@
 body: ''
 content_type: resource
 draft: false
-file: /media/courses/225-meow-meow-spring-2023/lec1.py
-file_size: 1277
-file_type: text/x-python-script
+file: /media/courses/225-meow-meow-spring-2023/catmewo.jpeg
+file_size: 4825
+file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-resourcetype: Document
-title: lec1.py
-uid: ebe36cf6-a475-4b59-becb-570beb9a326c
+resourcetype: Image
+title: catMewo.jpeg
+uid: e00762fe-75ef-44eb-8e5e-453cdc382875
 video_files:
   archive_url: ''
   video_captions_file: ''
