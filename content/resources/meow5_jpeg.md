@@ -13,7 +13,7 @@ learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Image
 title: meow5.jpeg
-uid: 2a001536-a55f-4511-b021-1eabf44f3e5d
+uid: a6800f4e-4fda-4df1-9adc-20df3181f811
 video_files:
   archive_url: ''
   video_captions_file: ''
