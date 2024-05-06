@@ -2,18 +2,18 @@
 body: ''
 content_type: resource
 draft: false
-file: /media/courses/225-meow-meow-spring-2023/meow6.jpeg
-file_size: 78065
-file_type: image/jpeg
+file: /media/gdrive_uploads/meow-meow/1qFU6NmaR4gHIXuD6E-b5QlgkqK8snGVB/sample-video.mp4
+file_size: 750369
+file_type: video/mp4
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-resourcetype: Image
-title: meow6.jpeg
-uid: a76e6244-74d6-450b-96b2-ae2cf66e49df
+resourcetype: Video
+title: sample video.mp4
+uid: 311a2898-df59-4137-8a25-ba18fb7fb412
 video_files:
   archive_url: ''
   video_captions_file: ''
